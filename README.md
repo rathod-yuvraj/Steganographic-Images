@@ -1,4 +1,4 @@
-# Extracting Hidden Messages in Steganographic Images
+#  Steganographic Images
 
 This project aims to detect and extract hidden messages embedded within steganographic images using various steganalytic forensic techniques. The primary focus is on LSB (Least Significant Bit) and group-parity steganography. Additionally, the project incorporates Huffman Coding and Run-Length Encoding (RLE) for compressing the hidden messages before embedding them in images.
 
